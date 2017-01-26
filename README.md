@@ -21,6 +21,7 @@ The courses comprising the Data Science Specialization are:
 * Reproducible Research
 * Statistical Inference
 * Regression Models
+##Git is FUN
 * Practical Machine Learning
 * Developing Data Products
 ![Course Dependency](dst_courses.png)
