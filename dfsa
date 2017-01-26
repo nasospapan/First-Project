@@ -1,0 +1,75 @@
+[33mcommit ea235f149a33e2a48e5a565fa414bc710fd4ad45[m
+Author: nasos <nasospapan@gmail.com>
+Date:   Thu Jan 26 12:15:45 2017 -0500
+
+    deleted fighters and added syllabus
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex ff28418..2440d0a 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,3 +1,59 @@[m
+[31m-* Avro[m
+[31m-* Harrier[m
+[31m-* Hornet[m
+\ No newline at end of file[m
+[32m+[m[32m# Introduction[m
+[32m+[m
+[32m+[m[32mDuring the next year you will learn the fundamentals of data science.[m
+[32m+[m
+[32m+[m[32mSurviving the nine courses which make up the [Data Science[m
+[32m+[m
+[32m+[m[32mSpecialization][0001] offered by [Johns Hopkins University][jhu] requires a[m
+[32m+[m
+[32m+[m[32m**strategy**.[m
+[32m+[m
+[32m+[m[32mTo this end, the focus of the ten-course series including a capstone project[m
+[32m+[m
+[32m+[m[32mis to provide the learner with:[m
+[32m+[m
+[32m+[m[32m1. an introduction to the key ideas behind reproducible research,[m
+[32m+[m
+[32m+[m[32m2. an introduction to the tools and techniques to transform raw[m
+[32m+[m
+[32m+[m[32mdata into a presentable report,[m
+[32m+[m
+[32m+[m[32m4. an opportunity to gain hands-on practice so you can learn the[m
+[32m+[m
+[32m+[m[32mtechniques for yourself, and[m
+[32m+[m
+[32m+[m[32m3. an appreciation of the mathematics & statistics involved in[m
+[32m+[m
+[32m+[m[32mdata science.[m
+[32m+[m
+[32m+[m[32m## Core Courses[m
+[32m+[m
+[32m+[m[32mThe courses comprising the Data Science Specialization are:[m
+[32m+[m
+[32m+[m[32m* Data Scientist's Toolbox[m
+[32m+[m
+[32m+[m[32m* R Programming[m
+[32m+[m
+[32m+[m[32m* Exploratory Data Analysis[m
+[32m+[m
+[32m+[m[32m* Getting and Cleaning Data[m
+[32m+[m
+[32m+[m[32m* Reproducible Research[m
+[32m+[m
+[32m+[m[32m* Statistical Inference[m
+[32m+[m
+[32m+[m[32m* Regression Models[m
+[32m+[m
+[32m+[m[32m* Practical Machine Learning[m
+[32m+[m
+[32m+[m[32m* Developing Data Products[m
+[32m+[m
+[32m+[m[32m![Course Dependency](dst_courses.png)[m
+[32m+[m
+[32m+[m[32m*Figure 1 Course dependency diagram*[m
+[32m+[m
+[32m+[m[32m[0001]: https://www.coursera.org/specialization/jhudatascience/1?utm_medium=[m
+[32m+[m
+[32m+[m[32mcourseDescripTop[m
+[32m+[m
+[32m+[m[32m[jhu]: http://www.jhu.edu[m
+\ No newline at end of file[m
